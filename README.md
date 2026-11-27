@@ -82,20 +82,24 @@ Mission
 
 ---
 
-## 📈 GitHub Analytics
+## 🧭 Engineering Principles
 
-<div align="center">
+```bash
+deepak@github:~$ cat engineering-principles.txt
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dsr5k&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsr5k&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+01  BUILD FOR REAL PROBLEMS
+    Start with the problem, then choose the technology.
 
-<br />
+02  MAKE DATA TRUSTWORTHY
+    Validate inputs. Protect consistency. Design for observability.
 
-<img src="https://streak-stats.demolab.com?user=dsr5k&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+03  DESIGN FOR CHANGE
+    Keep systems modular, understandable, and maintainable.
 
-</div>
+04  SHIP, LEARN, ITERATE
+    Turn ideas into working software and improve through feedback.
+```
 
----
 
 <div align="center">
 
