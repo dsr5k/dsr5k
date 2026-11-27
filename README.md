@@ -20,7 +20,7 @@ Role        : Data & AI Systems Builder
 Focus       : Data Engineering, AI Applications, Backend Systems
 
 Environment : Linux • VS Code
-Languages   : Python, SQL, Java, TypeScript
+Languages   : Go, Python, SQL, Java, TypeScript
 
 Data Stack  : Apache Spark • Kafka • Airflow • PostgreSQL
 Backend     : FastAPI • Next.js • React • Express
@@ -52,6 +52,7 @@ Mission
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Data Engineering & Storage
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
