@@ -2,112 +2,102 @@
 
 # Deepak Kumar
 
-### Data Engineering • Artificial Intelligence • Open Source
+### Data Engineering • AI Systems • Backend Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Engineer;Building+Production+Ready+Projects;Python+%7C+SQL+%7C+Spark;Learning+Something+New+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=Engineering+Data-Intensive+Systems;Building+AI-Powered+Products;Python+%7C+SQL+%7C+TypeScript;Streaming+%7C+Automation+%7C+AI" alt="Typing SVG" />
 
 </div>
 
 ---
 
-# 💻 neofetch
+## 💻 `neofetch`
 
 ```bash
 deepak@github:~$ neofetch
 
 Name        : Deepak Kumar
-Role        : Data Engineering Student
-Education   : B.Tech Electronics & Communication Engineering
+Role        : Data & AI Systems Builder
+Focus       : Data Engineering, AI Applications, Backend Systems
 
-OS          : Ubuntu Linux
-Editor      : VS Code
-Languages   : Python, SQL, Java
+Environment : Linux • VS Code
+Languages   : Python, SQL, Java, TypeScript
 
-Data Stack  : Apache Spark
-              Apache Kafka
-              Apache Airflow
-              PostgreSQL
-
-Cloud       : AWS (Learning)
-
-Current Project
-→ AI Invoice Automation
+Data Stack  : Apache Spark • Kafka • Airflow • PostgreSQL
+Backend     : FastAPI • Next.js • React • Express
+AI Systems  : Gemini API • Whisper • Celery • Redis • Qdrant
+Infrastructure: Docker • MinIO
 
 Mission
-→ Build scalable data platforms and AI-powered applications.
+→ Build reliable systems that turn raw data into useful products.
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Invoice Automation | AI-powered invoice generation with PDF automation |
-| 📡 Smart Noise Monitoring | ESP32 + MQTT based IoT monitoring system |
-| 🏎 Formula 1 Prediction | Machine Learning race position prediction |
-| 📊 ETL Pipeline | End-to-end Data Engineering project *(Coming Soon)* |
-| ⚡ Kafka Streaming | Real-time event streaming *(Coming Soon)* |
+| Project | What it does |
+|---|---|
+| [**Ozio**](https://github.com/dsr5k/ozio) | AI-powered financial operations platform for Indian businesses, covering document workflows, invoices, purchase bills, suppliers, customers, and GST operations |
+| [**Memory Chip**](https://github.com/dsr5k/memory-chip) | Captures audio and turns it into transcripts, structured notes, summaries, flashcards, and searchable learning memory |
+| [**Real-Time AI Lakehouse**](https://github.com/dsr5k/Real-time-ai-lakehouse) | Real-time data platform focused on ingestion, streaming, lakehouse processing, orchestration, data quality, warehousing, and AI serving |
+| **Smart Noise Monitoring** | ESP32 and MQTT-based noise monitoring and cancellation system |
+| **Formula 1 Prediction** | Machine learning project focused on predicting race positions |
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Data Engineering
+### Data Engineering & Storage
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-243E63?style=for-the-badge&logo=qdrant&logoColor=white)
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dsr5k&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsr5k&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dsr5k&theme=github-dark-blue&hide_border=true"/>
-</p>
+### Backend, AI & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 ---
 
-# 📚 Currently Learning
+## 🧠 Engineering Focus
 
-- Apache Spark
-- Apache Kafka
-- Apache Airflow
-- AWS
-- Data Warehousing
-- Distributed Systems
+- Real-time ingestion, streaming systems, and data pipelines
+- Lakehouse architecture, transformations, and orchestration
+- AI-powered document and audio processing
+- Asynchronous backend workflows and semantic retrieval
+- Building practical products from data-intensive systems
 
 ---
 
-# 🎯 2026 Goals
+## 📈 GitHub Analytics
 
-- Build production-ready ETL pipelines
-- Master Apache Spark
-- Learn Kafka & Airflow
-- Deploy projects on AWS
-- Contribute to Open Source
-- Become a Data Engineer
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dsr5k&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsr5k&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=dsr5k&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Learn. Build. Ship. Repeat."
+### ⭐ Build systems. Solve real problems. Ship with purpose.
 
 </div>
